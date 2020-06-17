@@ -28,10 +28,10 @@
 					<div class="row">
 						<div class="col-md-3">	
 							<div class="form-group">
-							  	<input class="form-control" id=""  name="fecha1" placeholder="Ingrese Fecha 1" type="text" />
+							  	<input class="form-control" id=""  name="desde" placeholder="Ingrese Fecha 1" type="text" />
 							</div>
 							<div class="form-group">
-							  	<input class="form-control" id=""  name="fecha2" placeholder="Ingrese Fecha 2" type="text" />
+							  	<input class="form-control" id=""  name="hasta" placeholder="Ingrese Fecha 2" type="text" />
 							</div>				
 						</div>
 					</div>			
