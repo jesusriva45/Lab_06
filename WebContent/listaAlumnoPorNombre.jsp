@@ -13,7 +13,7 @@
 <link rel="stylesheet" href="css/dataTables.bootstrap.min.css"/>
 <link rel="stylesheet" href="css/bootstrapValidator.css"/>
 
-<title>Ejemplos PIT CIBERTEC - Jorge Jacinto </title>
+<title>Listado de Alumnos por Nombre</title>
 </head>
 <body> 
 
